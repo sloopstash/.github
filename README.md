@@ -8,7 +8,7 @@
 
 ## Our open source contributions
 ### Operating system starter-kits
-[Linux](https://github.com/sloopstash/kickstart-linux)
+[Linux](https://github.com/sloopstash/kickstart-linux) | [Windows](https://github.com/sloopstash/kickstart-windows)
 
 ### DevOps starter-kits
 [Docker](https://github.com/sloopstash/kickstart-docker) | [Kubernetes](https://github.com/sloopstash/kickstart-kubernetes) | [Docker Swarm](https://github.com/sloopstash/kickstart-swarm) | [Chef](https://github.com/sloopstash/kickstart-chef) | [Ansible](https://github.com/sloopstash/kickstart-ansible) | [Terraform](https://github.com/sloopstash/kickstart-terraform) | [Jenkins](https://github.com/sloopstash/kickstart-jenkins) | [ELK](https://github.com/sloopstash/kickstart-elk) | [Packer](https://github.com/sloopstash/kickstart-packer)
