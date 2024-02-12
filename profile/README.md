@@ -11,7 +11,7 @@
 [Linux](https://github.com/sloopstash/kickstart-linux)  •  [Windows](https://github.com/sloopstash/kickstart-windows)
 
 ### DevOps starter-kits
-[Docker](https://github.com/sloopstash/kickstart-docker)  •  [Kubernetes](https://github.com/sloopstash/kickstart-kubernetes)  •  [Docker Swarm](https://github.com/sloopstash/kickstart-swarm) | [Chef](https://github.com/sloopstash/kickstart-chef)  •  [Ansible](https://github.com/sloopstash/kickstart-ansible)  •  [Terraform](https://github.com/sloopstash/kickstart-terraform) | [Jenkins](https://github.com/sloopstash/kickstart-jenkins)  •  [ELK](https://github.com/sloopstash/kickstart-elk) | [Packer](https://github.com/sloopstash/kickstart-packer)
+[Docker](https://github.com/sloopstash/kickstart-docker)  •  [Kubernetes](https://github.com/sloopstash/kickstart-kubernetes)  •  [Docker Swarm](https://github.com/sloopstash/kickstart-swarm)  •  [Chef](https://github.com/sloopstash/kickstart-chef)  •  [Ansible](https://github.com/sloopstash/kickstart-ansible)  •  [Terraform](https://github.com/sloopstash/kickstart-terraform)  •  [Jenkins](https://github.com/sloopstash/kickstart-jenkins)  •  [ELK](https://github.com/sloopstash/kickstart-elk)  •  [Packer](https://github.com/sloopstash/kickstart-packer)
 
 ### Cloud starter-kits
 [AWS](https://github.com/sloopstash/kickstart-aws)  •  [Azure](https://github.com/sloopstash/kickstart-azure)
