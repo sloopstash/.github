@@ -1,5 +1,5 @@
 # Welcome to @sloopstash
-[SloopStash](https://sloopstash.com) is a cloud software provider to enhance team productivity and infrastructure security of IT and remote teams. SloopStash also provides training and consulting services on numerous trending technologies like DevOps, AWS & Azure cloud, and more.
+[SloopStash](https://sloopstash.com) is a leading cloud software provider and an open source contributor that aims to boost the productivity of tech teams and the infrastructure security of remote IT teams. SloopStash also offers training, consulting, and solutions based on DevOps, open source, Microsoft Azure cloud, AWS cloud, software development, and more.
 
 
 ## Want to protect source code from dev teams? Try `SloopEngine online IDE`
@@ -8,10 +8,10 @@
 
 ## Our open source contributions
 ### Operating system starter-kits
-[Linux](https://github.com/sloopstash/kickstart-linux)  •  [Windows](https://github.com/sloopstash/kickstart-windows)
+[Linux](https://github.com/sloopstash/kickstart-linux) • [Windows](https://github.com/sloopstash/kickstart-windows)
 
 ### DevOps starter-kits
-[Docker](https://github.com/sloopstash/kickstart-docker)  •  [Kubernetes](https://github.com/sloopstash/kickstart-kubernetes)  •  [Docker Swarm](https://github.com/sloopstash/kickstart-swarm)  •  [Chef](https://github.com/sloopstash/kickstart-chef)  •  [Ansible](https://github.com/sloopstash/kickstart-ansible)  •  [Terraform](https://github.com/sloopstash/kickstart-terraform)  •  [Jenkins](https://github.com/sloopstash/kickstart-jenkins)  •  [ELK](https://github.com/sloopstash/kickstart-elk)  •  [Packer](https://github.com/sloopstash/kickstart-packer)
+[Docker](https://github.com/sloopstash/kickstart-docker) • [Kubernetes](https://github.com/sloopstash/kickstart-kubernetes) • [Docker Swarm](https://github.com/sloopstash/kickstart-swarm) • [Chef](https://github.com/sloopstash/kickstart-chef) • [Ansible](https://github.com/sloopstash/kickstart-ansible) • [Terraform](https://github.com/sloopstash/kickstart-terraform) • [Jenkins](https://github.com/sloopstash/kickstart-jenkins) • [ELK](https://github.com/sloopstash/kickstart-elk) • [Packer](https://github.com/sloopstash/kickstart-packer)
 
 ### Cloud starter-kits
 [AWS](https://github.com/sloopstash/kickstart-aws)  •  [Azure](https://github.com/sloopstash/kickstart-azure)
@@ -19,15 +19,15 @@
 ### Big Data starter-kits
 [Hadoop](https://github.com/sloopstash/kickstart-hadoop)  •  [Kafka](https://github.com/sloopstash/kickstart-kafka)
 
-### OCI/Container images
+### Container (OCI) images
 [Docker Hub](https://hub.docker.com/u/sloopstash)
 
 ### VM images
 [Vagrant Cloud](https://app.vagrantup.com/sloopstash)
 
 
-## Get support from our team
-Connect with our community/team for prompt help! You can also explore the [SloopStash website](https://sloopstash.com) to learn more about who we are, what we offer, and discover how we can cater to your needs and interests.
+## Get support
+Connect with our team for prompt help! You can also explore the [SloopStash website](https://sloopstash.com) to learn more about who we are, what we offer, and discover how we can cater to your needs and interests.
 
 * [Helpdesk](https://sloopstash.zohodesk.com)
 * [Contact us](https://sloopstash.com/contact.html)
