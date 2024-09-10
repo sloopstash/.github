@@ -35,10 +35,6 @@ Secure your IT infrastructure, source code, servers, and teams with our B2B SaaS
 - [AWS](https://github.com/sloopstash/kickstart-aws)
 - [Azure](https://github.com/sloopstash/kickstart-azure)
 
-### Big Data starter-kits
-- [Hadoop](https://github.com/sloopstash/kickstart-hadoop)
-- [Kafka](https://github.com/sloopstash/kickstart-kafka)
-
 
 ## Get support
 Interested in our open source works? Just send us a message, we're here to support you.
