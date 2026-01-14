@@ -16,19 +16,19 @@ Read the [SloopStash documentation](https://sloopstash.com/documentation/index.h
 
 ## SloopStash stacks
 
-| #   | Stacks                              | Workloads                                       |                                                                        |
-| --- | ----------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
-| 1   | SloopStash AIA stack                | Python + Ollama + Redis + Chroma + Nginx        | [SloopStash AIA app](https://github.com/sloopstash/sloopstash-aia-app) |
-| 2   | SloopStash CRM stack                | Python + Redis + Nginx                          | [SloopStash CRM app](https://github.com/sloopstash/sloopstash-crm-app) |
-| 3   | SloopStash CTM stack                | NodeJS + MongoDB + Nginx                        | [SloopStash CTM app](https://github.com/sloopstash/sloopstash-ctm-app) |
-| 4   | SloopStash NTM stack                | Ruby + PostgreSQL + Nginx                       | [SloopStash NTM app](https://github.com/sloopstash/sloopstash-ntm-app) |
-| 5   | SloopStash AI stack                 | Ollama (LLMs)                                   |                                                                        |
-| 6   | SloopStash Data Lake stack (s1)     | Hadoop cluster (Name nodes + Data nodes)        |                                                                        |
-| 7   | SloopStash Data Lake stack (s2)     | Kafka cluster (Controller nodes + Broker nodes) |                                                                        |
-| 8   | SloopStash Data Lake stack (s3)     | MongoDB cluster (Replica nodes)                 |                                                                        |
-| 9   | SloopStash Data Lake stack (s4)     | Redis cluster                                   |                                                                        |
-| 10  | SloopStash Observability stack (s1) | Elasticsearch + Logstash + Kibana               |                                                                        |
-| 11  | SloopStash Observability stack (s2) | Prometheus + Grafana                            |                                                                        |
+| #   | Stacks                              | Workloads                                                           | Apps                                                                   |
+| --- | ----------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1   | SloopStash AIA stack                | Python (Flask) + Ollama (GenAI, LLMs, RAG) + Redis + Chroma + Nginx | [SloopStash AIA app](https://github.com/sloopstash/sloopstash-aia-app) |
+| 2   | SloopStash CRM stack                | Python (Flask) + Redis + Nginx                                      | [SloopStash CRM app](https://github.com/sloopstash/sloopstash-crm-app) |
+| 3   | SloopStash CTM stack                | NodeJS (Express) + MongoDB + Nginx                                  | [SloopStash CTM app](https://github.com/sloopstash/sloopstash-ctm-app) |
+| 4   | SloopStash NTM stack                | Ruby (Rails) + PostgreSQL + Nginx                                   | [SloopStash NTM app](https://github.com/sloopstash/sloopstash-ntm-app) |
+| 5   | SloopStash AI stack                 | Ollama (GenAI, LLMs)                                                |                                                                        |
+| 6   | SloopStash Data Lake stack (s1)     | Hadoop cluster (Name nodes, Data nodes)                             |                                                                        |
+| 7   | SloopStash Data Lake stack (s2)     | Kafka cluster (Controller nodes, Broker nodes)                      |                                                                        |
+| 8   | SloopStash Data Lake stack (s3)     | MongoDB cluster (Replica nodes)                                     |                                                                        |
+| 9   | SloopStash Data Lake stack (s4)     | Redis cluster                                                       |                                                                        |
+| 10  | SloopStash Observability stack (s1) | Elasticsearch + Logstash + Kibana                                   |                                                                        |
+| 11  | SloopStash Observability stack (s2) | Prometheus + Grafana                                                |                                                                        |
 
 
 ## Get support
